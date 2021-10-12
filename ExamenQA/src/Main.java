@@ -1,4 +1,4 @@
-public class MAIN {
+public class Main {
     public static void main(String args[]) {
         int[] arreglo = new int[]{ 0,1,2,3,4 };
 
